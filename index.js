@@ -11,6 +11,7 @@ const licenses = [
     { name: 'Apache License 2.0', value: 'Apache-2.0', url: 'https://opensource.org/licenses/Apache-2.0', badge:'Apache--2.0'},
 ];
 
+
 const init = () => {
   inquirer
     .prompt([
